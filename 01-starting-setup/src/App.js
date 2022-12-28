@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <h2>Zlatko has been started!</h2>
+      <h2>And its working!</h2>
     </div>
   );
 }
