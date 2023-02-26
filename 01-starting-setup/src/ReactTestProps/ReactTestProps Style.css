@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 3rem;
+  background-color: #2d2c2c;
+  color: #959090;
+}
+
+.product {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #373535;
+  color: #e7e4e4;
+  border-radius: 8px;
+}
+
+.product h2,
+.product p {
+  margin: 0.5rem 0;
+}
+
+.price {
+  font-size: 0.75rem;
+  color: #bab6b6;
+}
